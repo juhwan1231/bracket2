@@ -1,0 +1,43 @@
+.parent{
+    position: relative;
+    top: 480px;
+    left:240px;
+    width: 1441px;
+    height: 883px;
+    z-index:5;
+    font-size: 30px;
+    text-align: left;
+    
+}
+.child{
+    z-index: 2;
+    position: absolute;
+    top :20%;
+    left:10%;
+    width: 475px;
+    height: 687px;
+    font-size: 40px;
+    font-weight: 30px;
+    text-align: center;
+}
+
+  .ecoce_img{
+    position: absolute;
+    top :70%;
+    left: 80%;
+    text-align: right;
+    font-size: 30px;
+    font-weight: 40px;
+}
+.logo1{
+    top:150%;
+    background-color: black;
+    border-radius: 5px;
+    background-size: 25%;
+    font-style: white;
+    width: 70px;
+    position:absolute;
+    left:70%;
+   
+    
+}
